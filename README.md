@@ -1,6 +1,6 @@
 # Computer Language Icons
 
-[Computer Language Icons](https://justin-sawyer.github.io/computer-language-icons/index.html
+[Computer Language Icons](https://justin-sawyer.github.io/computer-language-icons/index.html)
 
 This is the very first project I created in GitHub/GitPod. 
 It's been a lot of fun, although understanding some of the terminal (CLI) commands was taxing!
