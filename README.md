@@ -12,8 +12,8 @@ Happy coding, J, and remember:
 
 ### Languages, Technologies and Libraries used:
 HTML5
+
 CSS
-Font-Awesome 
 
 ### Credits and Shout Outs to: 
 [Code Institute](https://codeinstitute.net) for the tuition.
@@ -21,7 +21,7 @@ Font-Awesome
 [This little fellow](https://www.sciencephoto.com/media/1008843/view/colorectal-cancer-cell-sem) for making me see sense.
 
 ### Links 
-Links opening in new tabs: [Wikipedia](https://www.wikipedia.org/), with thanks.
+[Wikipedia](https://www.wikipedia.org/)
 
-Images [CleanPNG](https://www.cleanpng.com/)
+[CleanPNG](https://www.cleanpng.com/)
 
